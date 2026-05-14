@@ -1,0 +1,12 @@
+{
+  "name": "fluxo-caisa-simples",
+  "version": "1.0.0",
+  "private": true,
+  "description": "App simples de fluxo de caixa para pequena empresa.",
+  "scripts": {
+    "build": "node render-build.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
