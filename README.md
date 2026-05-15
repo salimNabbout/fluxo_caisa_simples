@@ -1,5 +1,7 @@
 # Fluxo de Caixa Simples
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/salimNabbout/fluxo_caisa_simples)
+
 App estático para controle de fluxo de caixa de pequena empresa.
 
 ## Recursos
@@ -24,6 +26,10 @@ Datas: `dd/mm/aaaa` ou `aaaa-mm-dd`.
 Valores: `1.234,56` ou `1234.56`.
 
 ## Render
+
+Clique no botão **Deploy to Render** acima ou acesse diretamente:
+
+https://render.com/deploy?repo=https://github.com/salimNabbout/fluxo_caisa_simples
 
 Configuração para Static Site:
 
