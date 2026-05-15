@@ -11,6 +11,7 @@ App estático para controle de fluxo de caixa de pequena empresa.
 - Dashboard por dia, mês e ano.
 - Saldo inicial do período, entradas, saídas, saldo final, previsto e projetado.
 - Busca e filtros.
+- Tela preta/tela clara com preferência salva no navegador.
 - Importação e exportação CSV.
 - Exportação JSON.
 
